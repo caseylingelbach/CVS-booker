@@ -1,0 +1,12 @@
+hello!
+
+I hope this works! I don't know how github works
+
+1. Change "directory" to wherever your Excel file is located.
+2. input file is name of file
+3. find your ad-block extension (whatever you normally use) - chrome - extensions - details. Get the name of it and the path, put that folder in the second options.add_argument line
+      #CVS gives a survey pop up otherwise I think
+4. Download Chromedriver
+5. Point the driver = webdriver.Chrome to it
+
+You should be good to run?
