@@ -19,13 +19,7 @@ PyDispatcher==2.0.5
 pydocstyle==4.0.1
 pyflakes==2.1.1
 Pygments==2.5.2
-PyHamcrest==2.0.2
-pylint==2.4.4
 
-scipy==1.4.1
-Scrapy==2.2.0
-scrapy-wayback-machine==1.0.0
-seaborn==0.10.0
 selenium==3.141.0
 
 
